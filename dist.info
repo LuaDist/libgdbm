@@ -1,0 +1,9 @@
+--- This file is part of LuaDist project
+
+name = "libgdbm"
+version = "1.8.3"
+
+desc = "GNU dbm is a set of database routines that use extendible hashing and works similar to the standard UNIX dbm routines."
+license = "GPL2"
+url = "http://www.gnu.org/software/gdbm/"
+maintainer = "Peter Kapec"
