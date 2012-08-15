@@ -7,3 +7,4 @@ desc = "GNU dbm is a set of database routines that use extendible hashing and wo
 license = "GPL2"
 url = "http://www.gnu.org/software/gdbm/"
 maintainer = "Peter Kapec"
+author = "Philip A. Nelson, Jason Downs, Sergey Poznyakoff"
