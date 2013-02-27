@@ -1,0 +1,24 @@
+type = "x86_64"
+arch = "Ubuntu"
+desc = "GNU dbm is a set of database routines that use extendible hashing and works similar to the standard UNIX dbm routines."
+name = "libgdbm"
+maintainer = "Peter Kapec"
+files = {
+Unspecified = {
+[[lib/libgdbm.so]],
+[[include/gdbmdefs.h]],
+[[include/extern.h]],
+[[include/gdbmerrno.h]],
+[[include/systems.h]],
+[[include/dbm.h]],
+[[include/ndbm.h]],
+[[include/gdbmconst.h]],
+[[include/proto.h]],
+[[include/gdbm.h]],
+}
+,
+}
+
+license = "GPL2"
+version = "1.8.3"
+url = "http://www.gnu.org/software/gdbm/"
